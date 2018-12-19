@@ -1,4 +1,4 @@
 berpj.github.io
 ===============
 
-My personal homepage
+My personal page
